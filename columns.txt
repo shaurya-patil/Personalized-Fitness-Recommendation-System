@@ -1,0 +1,438 @@
+Unnamed: 0
+Participant ID
+Day 1 Weight
+Two-Day Weight
+Dietary Status
+Examined Respondent
+Breastfeeding
+Dietary Interview
+Interview Hour
+Interview Day
+Interview Language
+Minor Respondent
+Dietary Help
+Sugar Drinks
+Breakfast Consumption
+Meal Prep
+Eating Style
+Skipped Meals
+Special Diet
+Dietary Recall - Day 1 Start Time
+Dietary Recall - Day 2 Start Time
+Time of First Dietary Recall Interview
+Time of Second Dietary Recall Interview
+Duration Between Dietary Recall Interviews
+Total Number of Dietary Recall Interviews Completed
+Dietary Recall Interview Completion Status
+Method of Dietary Recall Data Collection
+Use of Dietary Supplements Reported
+Frequency of Dietary Supplement Use
+Dietary Supplement Use on Interview Day
+Type of Dietary Supplement Used
+Dietary Recall - Total Intake Time
+Food Count
+Total Calories
+Protein Intake
+Carb Intake
+Sugar Intake
+Fiber Intake
+Total Fat
+Saturated Fat
+Monounsaturated Fat
+Polyunsaturated Fat
+Cholesterol
+Alpha Tocopherol
+Vitamin A
+Retinol
+Vitamin A (RAE)
+Alpha Carotene
+Beta Carotene
+Cryptoxanthin
+Lycopene
+Lutein Zeaxanthin
+Vitamin B1
+Vitamin B2
+Niacin
+Vitamin B6
+Folate
+Folic Acid
+Food Folate
+Dietary Folate
+Choline
+Vitamin B12
+B12 Added
+Vitamin C
+Vitamin D
+Vitamin K
+Calcium
+Phosphorus
+Magnesium
+Iron
+Zinc
+Copper
+Sodium
+Potassium
+Selenium
+Caffeine
+Theobromine
+Alcohol
+Moisture
+Dietary Recall - Meal 1 Time
+Dietary Recall - Meal 2 Time
+Dietary Recall - Meal 3 Time
+Dietary Recall - Meal 4 Time
+Dietary Recall - Meal 5 Time
+Dietary Recall - Meal 6 Time
+Total Sugar Intake (grams)
+Total Carbohydrate Intake (grams)
+Dietary Recall - Total Meal 1 Time
+Dietary Recall - Total Meal 2 Time
+Total Fat Intake (grams)
+Total Protein Intake (grams)
+Dietary Recall - Total Protein Meal 1
+Dietary Recall - Total Protein Meal 2
+Total Sodium Intake (milligrams)
+Total Potassium Intake (milligrams)
+Total Fiber Intake (grams)
+Total Calcium Intake (milligrams)
+Total Iron Intake (milligrams)
+Dietary Recall - Food Count
+Dietary Recall - Total Calories
+Dietary Recall - Total Macronutrient Intake
+Dietary Recall - Water Intake
+Total Water Intake (grams)
+Dietary Recall Day of the Week
+Breakfast Consumption Status
+Breakfast Nutrient Contribution (%)
+Lunch Consumption Status
+Lunch Nutrient Contribution (%)
+Dinner Consumption Status
+Dinner Nutrient Contribution (%)
+Snack 1 Consumption Status
+Snack 1 Nutrient Contribution (%)
+Snack 2 Consumption Status
+Snack 2 Nutrient Contribution (%)
+Snack 3 Consumption Status
+Snack 3 Nutrient Contribution (%)
+Snack 4 Consumption Status
+Snack 4 Nutrient Contribution (%)
+Snack 5 Consumption Status
+Snack 5 Nutrient Contribution (%)
+Snack 6 Consumption Status
+Snack 6 Nutrient Contribution (%)
+Snack 7 Consumption Status
+Snack 7 Nutrient Contribution (%)
+Snack 8 Consumption Status
+Total Daily Energy Intake (kcal)
+Protein Contribution to Energy Intake (%)
+Carbohydrate Contribution to Energy Intake (%)
+Fat Contribution to Energy Intake (%)
+Saturated Fat Contribution to Energy Intake (%)
+Monounsaturated Fat Contribution to Energy Intake (%)
+Polyunsaturated Fat Contribution to Energy Intake (%)
+Alcohol Contribution to Energy Intake (%)
+Cholesterol Intake (mg)
+Dietary Fiber Intake Contribution (%)
+Total Sugar Contribution (%)
+Calcium Contribution to Energy Intake (%)
+Iron Contribution to Energy Intake (%)
+Magnesium Contribution to Energy Intake (%)
+Phosphorus Contribution to Energy Intake (%)
+Potassium Contribution to Energy Intake (%)
+Sodium Contribution to Energy Intake (%)
+Zinc Contribution to Energy Intake (%)
+Copper Contribution to Energy Intake (%)
+Selenium Contribution to Energy Intake (%)
+Vitamin A Contribution to Energy Intake (%)
+Vitamin C Contribution to Energy Intake (%)
+Vitamin D Contribution to Energy Intake (%)
+Vitamin E Contribution to Energy Intake (%)
+Vitamin K Contribution to Energy Intake (%)
+Thiamin Contribution to Energy Intake (%)
+Riboflavin Contribution to Energy Intake (%)
+Niacin Contribution to Energy Intake (%)
+Vitamin B6 Contribution to Energy Intake (%)
+Folate Contribution to Energy Intake (%)
+Vitamin B12 Contribution to Energy Intake (%)
+Choline Contribution to Energy Intake (%)
+Retinol Contribution to Energy Intake (%)
+Beta Carotene Contribution to Energy Intake (%)
+Alpha Carotene Contribution to Energy Intake (%)
+Lycopene Contribution to Energy Intake (%)
+Lutein and Zeaxanthin Contribution to Energy Intake (%)
+Tocopherol Contribution to Energy Intake (%)
+Added Sugars Contribution to Energy Intake (%)
+Caffeine Contribution to Energy Intake (%)
+Theobromine Contribution to Energy Intake (%)
+Total Fatty Acids Contribution to Energy Intake (%)
+Trans Fatty Acids Contribution to Energy Intake (%)
+Total Saturated Fatty Acids Contribution to Energy Intake (%)
+Survey Year
+Interview Status
+Gender
+Age (Years)
+Age (Months)
+Ethnicity
+Race/Ethnicity
+Exam Month
+Age Group
+Military Status
+Armed Forces
+Birth Country
+Citizenship
+Years in US
+Education Level
+Education (Adults)
+Marital Status
+Pregnancy Status
+Primary Language of Household Interview
+Proxy Used for Interview
+Interpreter Used for Interview
+Primary Language of Family Interview
+Proxy Used for Family Interview
+Interpreter Used for Family Interview
+Primary Language of Medical Interview
+Proxy Used for Medical Interview
+Interpreter Used for Medical Interview
+Primary Language of Audiometry Interview
+Household Size
+Family Size
+Number of Children Under 6 Years
+Number of Children 6-17 Years
+Number of Adults 60+ Years
+Gender
+Age in Years
+Race/Ethnicity
+Education Level
+Marital Status
+Highest Education Level in Household
+Interview Weight
+MEC Weight
+Pseudo PSU
+Stratum
+Household Income
+Family Income
+Poverty Index
+PEASCST1
+PEASCTM1
+PEASCCT1
+Chest Measure
+BPAARM
+BPACSZ
+Pulse Rate
+Pulse Type
+BPXPTY
+BP Arm Length
+Systolic BP1
+Diastolic BP1
+BPAEN1
+Systolic BP2
+Diastolic BP2
+BPAEN2
+Systolic BP3
+Diastolic BP3
+BPAEN3
+Systolic BP4
+Diastolic BP4
+BPAEN4
+Body Measurement Status
+Body Weight (kg)
+BMI Weight
+Recumbent Length
+Recumbent BMI
+Head Circumference
+Head BMI
+Body Height (cm)
+BMI Height
+Body Mass Index (BMI)
+BMI Classification
+Leg Length
+BMI Leg Length
+Arm Length
+BMI Arm Length
+Arm Circumference
+BMIARMC
+Waist Circumference
+BMI Waist Circumference
+Upper Arm Skinfold Thickness (mm)
+Subscapular Skinfold Thickness (mm)
+Triceps Skinfold Thickness (mm)
+Sum of Skinfold Thickness (mm)
+Average Skinfold Thickness (mm)
+Skinfold Measurement Comment Code
+Muscle Strength Test Eligibility
+Grip Strength Test Performed
+Hand Grip Strength (kg)
+Dominant Hand Used for Grip Test
+Average Grip Strength (kg)
+Max Grip Strength (kg)
+Grip Strength - Right Hand (kg)
+Grip Strength - Left Hand (kg)
+Grip Strength Measurement Comment Code
+Test Completion Status
+Grip Strength Measurement Device Type
+Seated Position During Grip Strength Test
+Grip Strength - Average of Both Hands (kg)
+Grip Strength - Average of Dominant Hand (kg)
+Standing Height Trial 1 (cm)
+Standing Height Trial 1 Measurement Error
+Standing Height Trial 2 (cm)
+Standing Height Trial 2 Measurement Error
+Recumbent Length Trial 1 (cm)
+Recumbent Length Trial 1 Measurement Error
+Recumbent Length Trial 2 (cm)
+Recumbent Length Trial 2 Measurement Error
+Knee Height Trial 1 (cm)
+Knee Height Trial 1 Measurement Error
+Knee Height Trial 2 (cm)
+Knee Height Trial 2 Measurement Error
+Calibrated Grip Strength Size
+Oral Health Exam - Exam Status
+Oral Health Exam - Detailed Exam Status
+Oral Health
+Tooth Count 1
+Tooth Count 2
+Tooth Count 3
+Tooth Count 4
+Tooth Count 5
+Tooth Count 6
+Tooth Count 7
+Tooth Count 8
+Tooth Count 9
+Tooth Count 10
+Tooth Count 11
+Tooth Count 12
+Tooth Count 13
+Tooth Count 14
+Tooth Count 15
+Tooth Count 16
+Tooth Count 17
+Tooth Count 18
+Tooth Count 19
+Tooth Count 20
+Tooth Count 21
+Tooth Count 22
+Tooth Count 23
+Tooth Count 24
+Tooth Count 25
+Tooth Count 26
+Tooth Count 27
+Tooth Count 28
+Tooth Count 29
+Tooth Count 30
+Tooth Count 31
+Tooth Count 32
+Tooth Count - Upper Right 2nd Molar
+Tooth Count - Upper Right 1st Molar
+Tooth Count - Upper Right 2nd Premolar
+Tooth Count - Upper Right 1st Premolar
+Tooth Count - Upper Right Canine
+Tooth Count - Upper Right Lateral Incisor
+Tooth Count - Upper Right Central Incisor
+Tooth Count - Upper Left Central Incisor
+Tooth Count - Upper Left Lateral Incisor
+Tooth Count - Upper Left Canine
+Tooth Count - Upper Left 1st Premolar
+Tooth Count - Upper Left 2nd Premolar
+Tooth Count - Upper Left 1st Molar
+Tooth Count - Upper Left 2nd Molar
+Tooth Count - Lower Left 2nd Molar
+Tooth Count - Lower Left 1st Molar
+Tooth Count - Lower Left 2nd Premolar
+Tooth Count - Lower Left 1st Premolar
+Tooth Count - Lower Left Canine
+Tooth Count - Lower Left Lateral Incisor
+Tooth Count - Lower Left Central Incisor
+Tooth Count - Lower Right Central Incisor
+Tooth Count - Lower Right Lateral Incisor
+Tooth Count - Lower Right Canine
+Tooth Count - Lower Right 1st Premolar
+Tooth Count - Lower Right 2nd Premolar
+Tooth Count - Lower Right 1st Molar
+Tooth Count - Lower Right 2nd Molar
+Oral Health Exam - Tooth 2 Status
+Oral Health Exam - Tooth 3 Status
+Oral Health Exam - Tooth 4 Status
+Oral Health Exam - Tooth 5 Status
+Oral Health Exam - Tooth 6 Status
+Oral Health Exam - Tooth 7 Status
+Oral Health Exam - Tooth 8 Status
+Oral Health Exam - Tooth 9 Status
+Oral Health Exam - Tooth 10 Status
+Oral Health Exam - Tooth 11 Status
+Oral Health Exam - Tooth 12 Status
+Oral Health Exam - Tooth 13 Status
+Oral Health Exam - Tooth 14 Status
+Oral Health Exam - Tooth 15 Status
+Oral Health Exam - Tooth 18 Status
+Oral Health Exam - Tooth 19 Status
+Oral Health Exam - Tooth 20 Status
+Oral Health Exam - Tooth 21 Status
+Oral Health Exam - Tooth 22 Status
+Oral Health Exam - Tooth 23 Status
+Oral Health Exam - Tooth 24 Status
+Oral Health Exam - Tooth 25 Status
+Oral Health Exam - Tooth 26 Status
+Oral Health Exam - Tooth 27 Status
+Oral Health Exam - Tooth 28 Status
+Oral Health Exam - Tooth 29 Status
+Oral Health Exam - Tooth 30 Status
+Oral Health Exam - Tooth 31 Status
+Oral Health Exam - Tooth 2 Surface Condition
+Oral Health Exam - Tooth 3 Surface Condition
+Oral Health Exam - Tooth 4 Surface Condition
+Oral Health Exam - Tooth 5 Surface Condition
+Oral Health Exam - Tooth 7 Surface Condition
+Oral Health Exam - Tooth 10 Surface Condition
+Oral Health Exam - Tooth 12 Surface Condition
+Oral Health Exam - Tooth 13 Surface Condition
+Oral Health Exam - Tooth 14 Surface Condition
+Oral Health Exam - Tooth 15 Surface Condition
+Oral Health Exam - Tooth 18 Surface Condition
+Oral Health Exam - Tooth 19 Surface Condition
+Oral Health Exam - Tooth 20 Surface Condition
+Oral Health Exam - Tooth 21 Surface Condition
+Oral Health Exam - Tooth 28 Surface Condition
+Oral Health Exam - Tooth 29 Surface Condition
+Oral Health Exam - Tooth 30 Surface Condition
+Oral Health Exam - Tooth 31 Surface Condition
+Examination Status
+Examination Comment
+Frequency of Socializing with Friends/Family
+Perceived Social Support Level
+Participation in Social Activities (Last Month)
+Volunteering Participation
+Religious or Spiritual Activity Participation
+Recreational Activity Participation
+Participation in Support Groups
+Physical Activity Participation in Groups
+Frequency of Social Media Use
+Loneliness Score
+Stress Level Rating
+Depression Scale Score
+Anxiety Scale Score
+Overall Life Satisfaction Score
+Survey Equipment - Primary Group
+Survey Equipment - Type
+Survey Non-Applicable Primary Group
+Survey Non-Applicable Type
+Survey Questionnaire Subject Group
+Survey Questionnaire Subject Type
+Survey Salt Subject Group
+Survey Salt Subject Type
+Survey Non-Applicable Subject Group
+Survey Non-Applicable Subject Type
+Household Smoking Status
+Exposure to Secondhand Smoke - Home
+Exposure to Secondhand Smoke - School/Work
+Exposure to Secondhand Smoke - Other Locations
+Lead Exposure Source
+Source of Air Pollution Exposure
+Green Space Availability Around Residence
+Occupational Noise Exposure
+Gas Stove Usage in Household
+Sleep Quality Rating
+Sleep Duration Per Night (Hours)
+Nap Frequency Per Week
+Nap Duration (Minutes)
+Effort in Maintaining Health

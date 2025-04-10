@@ -1,0 +1,13 @@
+pandas==2.2.3
+numpy==2.2.4
+scikit-learn==1.6.1
+lightgbm==4.6.0
+sentence-transformers==4.0.2
+torch==2.6.0
+transformers==4.51.1
+joblib==1.4.2
+regex==2024.11.6
+requests==2.32.3
+huggingface-hub==0.30.2
+matplotlib==3.10.1
+seaborn==0.13.2
